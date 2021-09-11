@@ -4,6 +4,8 @@
 
   ## Installation
   clone repo && npm install && npm start
+  <img width="1440" alt="Screen Shot 2021-09-11 at 2 10 54 PM" src="https://user-images.githubusercontent.com/86609050/132957264-c522d13b-793b-491f-8c9d-7d0ae9e32381.png">
+
 
   ## Usage
   N/A
